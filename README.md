@@ -54,16 +54,25 @@ pandas
 matplotlib
 seaborn
 
-🚀 How to Run
-Clone the repository:
-git clone https://github.com/ashutoshb206/Linear_regression.git
+## 🚀 Getting Started
 
-Navigate to the project folder:
+To run this project locally:
+
+### 1. Clone the repository:
+
+```bash
+git clone https://github.com/ashutoshb206/Linear_regression.git
 cd Linear_regression
 
-Open either notebook:
+```
+### 2. Open the notebook 
+```bash
 jupyter notebook linear_regression_diabetes.ipynb
 # or
 jupyter notebook linear_regression_dataset.ipynb
+```
+3. Run all cells
+Run all cells to see model training, prediction, evaluation metrics, and plots
 
-Feel free to star ⭐ the repo, fork 🍴 it, or contribute with suggestions!
+Feel free to star ⭐ the repo if u find it helpful.
+
